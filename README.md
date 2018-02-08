@@ -1,5 +1,7 @@
 # Creating an OpenAPI Specificaiton for an XML-RPC API
 
+[![Join the chat at https://gitter.im/openapi-4-xml-rpc/Lobby](https://badges.gitter.im/openapi-4-xml-rpc/Lobby.svg)](https://gitter.im/openapi-4-xml-rpc/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The OpenAPI Spec (previously called Swagger) is the new hotness
 when it comes to documenting RESTful APIs. 
 It should also support other network API protoocols
